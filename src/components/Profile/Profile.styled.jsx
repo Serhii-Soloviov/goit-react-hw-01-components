@@ -3,7 +3,6 @@ export const Card = styled.div`
   margin: 20px auto 20px auto;
   text-align: center;
   width: 500px;
-  border-radius: 5px;
   box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
 `;
 export const Wrapper = styled.div`
